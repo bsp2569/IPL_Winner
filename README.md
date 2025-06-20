@@ -13,7 +13,7 @@ This Flask web application predicts the winning probability of a team in an IPL 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/zep-analytics/IPLScorePredictor-2024.git
+    git clone https://github.com/bsp2569/IPL_Winner.git
     ```
 
 2. Run the Flask app:
